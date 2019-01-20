@@ -1,5 +1,5 @@
 # Breakfast-Project
-This project contains a webapp that shows the nutrition details of all food. 
+This project contains a webapp that shows the nutrition details of all foods, And recommends whether to eat or not. 
 
 ### Software Requirements to run project: ###
 * XMPP SERVER v3.2.2
