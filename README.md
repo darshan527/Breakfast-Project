@@ -21,3 +21,10 @@ This project contains a webapp that shows the nutrition details of all food.
 * You'll be redirected to new page containing the details of your food.
 
 ### Screenshots:
+
+![picture alt](https://github.com/darshan527/Breakfast-Project/blob/master/screenshots/xampp.png "XAMPP Configuration")
+===================
+![picture alt](https://github.com/darshan527/Breakfast-Project/blob/master/screenshots/ind.png "Main Page")
+===================
+![picture alt](https://github.com/darshan527/Breakfast-Project/blob/master/screenshots/nut.png "Result page")
+===================
